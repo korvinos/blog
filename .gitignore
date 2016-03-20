@@ -111,3 +111,6 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+/venv/
+/log/
+/etc/
